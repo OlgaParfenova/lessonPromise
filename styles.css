@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@300;400;500&display=swap');
+
+html {
+    font-family: 'Kiwi Maru', serif;
+}
+
+body {
+    background-color: plum;
+}
+
+.mainWrap {
+    background-color: whitesmoke;
+    min-height: 100vh;
+}
+
+header  {
+    padding-top: 40px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+.mainTitle {
+    font-size: 45px;
+    font-weight: normal;
+    padding-bottom: 40px;
+}
+
+.postShort {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.postTitle {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.postLongTitle {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.errorContainer {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.errorNumber {
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+
+.errorStatus {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
